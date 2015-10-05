@@ -1,6 +1,6 @@
 <?php
-	define("DB_HOST", "tux29");
-	define("DB_USER", "web107");
-	define("DB_PASSWORD", "K3nu!diot");
-	define("DB_DATABASE", "usr_web107_1");
+	define("DB_HOST", "http://192.168.99.100/");
+	define("DB_USER", "root");
+	define("DB_PASSWORD", "mysqlPassword");
+	define("DB_DATABASE", "witestify");
 ?>
